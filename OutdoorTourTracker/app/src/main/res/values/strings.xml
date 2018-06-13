@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Outdoor Tour Tracker</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Abbrechen</string>
+
+    <!-- the record tab -->
+    <string name="record_tab">Aufzeichnung</string>
+    <string name="start_button">Tour starten</string>
+    <string name="stop_button">Tour beenden</string>
+    <string name="save_button">Speichern</string>
+    <string name="discard_button">Verwerfen</string>
+    <string name="time_label">Zeit</string>
+    <string name="distance_label">Strecke</string>
+    <string name="km_label">km</string>
+    <string name="speed_label">Geschwindigkeit</string>
+    <string name="kmh_label">km/h</string>
+    <string name="minkm_label">min/km</string>
+    <string name="pace_label">Tempo</string>
+    <string name="average_speed_label">Durchschn. Geschw.</string>
+    <string name="max_speed_label">Max. Geschw.</string>
+    <string name="altitude_label">Höhe</string>
+    <string name="altitude_differenz_label">Höhenmeter</string>
+    <string name="meter_label">m</string>
+    <string name="save_dialog_title">Tour speichern</string>
+    <string name="save_dialog_tour_name">Name der Tour</string>
+    <string name="save_dialog_tour_activity">Aktivität</string>
+    <string name="save_dialog_ok_button">OK</string>
+    <string name="save_dialog_cancel_button">Abbrechen</string>
+    <string name="tour_type_hike">Wandern</string>
+    <string name="tour_type_mountaineering">Bergsteigen</string>
+    <string name="tour_type_bike">Radfahren</string>
+    <string name="tour_type_run">Laufen</string>
+
+    <!-- the map tab -->
+    <string name="map_tab">Karte</string>
+
+    <!-- the tracks tab -->
+    <string name="tracks_tab">Touren</string>
+    <string name="track_dialog_title">Tour</string>
+    <string name="track_dialog_show_in_map">In Karte anzeigen</string>
+    <string name="track_dialog_delete_track">Löschen</string>
+    <string name="delete_dialog_title">Wollen Sie die Tour Löschen?</string>
+
+    <!-- the position tab -->
+    <string name="position_tab">Position</string>
+
+</resources>
