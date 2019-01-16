@@ -1,7 +1,8 @@
 # Outdoor-Tour-Tracker
 Outdoor-Tour-Tracker is an Android App, which allows you to record the route of your outdoor activities and displays different values for the current tour such as the distance covered, the speed or the time. The route is also displayed on a map. The individual tours can be saved as GPX files to be able to use them later and open them e.g. in another program.
 
-<img src="./Doc/Images/Outdoor_Tour_Tracker.png" width="540px" height="960px">
+
+<img src="./Doc/Images/Outdoor_Tour_Tracker.png" width="486px" height="864px">
 
 ## Functionality
 * Start recording a tour and give it a name
